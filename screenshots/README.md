@@ -3,4 +3,4 @@ Screenshots of the Online Train Reservation System will be added here.
 
 - **Username:** admin
 - **Password:** admin
--These are demo credentials for testing the project.
+- These are demo credentials for testing the project.
