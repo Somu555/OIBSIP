@@ -10,13 +10,14 @@ This project demonstrates the use of Java, Swing, JDBC, and MySQL to build a dat
 
 - JDK 21
 - MySQL Server
+- MySQL Workbench
 - Eclipse IDE or another Java IDE
 
 ## Setup and Run
 
 1. Download or clone this repository.
 2. Import the project into Eclipse as an existing Maven project.
-3. Create the MySQL database and reservation table required by the application.
+3. Use MySQL Workbench to create the database and reservation table required by the application.
 4. Update DBConnection.java with your local database name, username, and password.
 5. Start MySQL Server.
 6. Run Main.java as a Java Application.
