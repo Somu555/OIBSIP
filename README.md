@@ -1,4 +1,4 @@
-## Online Train Reservation System
+___## Online Train Reservation System
 
 The Online Train Reservation System is a Java desktop application that allows users to manage train ticket reservations through a simple graphical interface. It is built using Java Swing and connects to a MySQL database using JDBC.
 
