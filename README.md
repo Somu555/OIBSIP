@@ -50,7 +50,7 @@ Setup and Run
 - USERNAME: admin
 - PASSWORD: admin
 These are demo credentials for testing only.
-#Screenshots
+##Screenshots
 Screenshots of the login page, dashboard, booking form, and reservation features are available in the screenshots/ folder.
 ##NOTES:-
 This is a Java desktop application. It runs on a computer with Java and MySQL installed; it does not run as a desktop GUI directly in a web browser
