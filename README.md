@@ -33,6 +33,7 @@ OnlineReservationSystem/
 ├── screenshots
 ├── pom.xml
 └── README.md
+
 ##Requirements
 - JDK 21
 - MySQL Server
@@ -44,11 +45,14 @@ Setup and Run
 4. Update DBConnection.java with your local database name, username, and password.
 5. Start MySQL Server.
 6. Run Main.java as a Java Application.
+
 ##Demo Login
 . USERNAME: admin
 . PASSWORD: admin
 .These are demo credentials for testing only.
+
 ##Screenshots
 8.Screenshots of the login page, dashboard, booking form, and reservation features are available in the screenshots/ folder.
+
 ##NOTES:-
 9.This is a Java desktop application. It runs on a computer with Java and MySQL installed; it does not run as a desktop GUI directly in a web browser
