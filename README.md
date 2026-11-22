@@ -44,9 +44,9 @@ Setup and Run
 4. Update DBConnection.java with your local database name, username, and password.
 5. Start MySQL Server.
 6. Run Main.java as a Java Application.
-##Demo Login
-- USERNAME: admin
-- PASSWORD: admin
+  . ##Demo Login
+  . USERNAME: admin
+  . PASSWORD: admin
 7.These are demo credentials for testing only.
 ##Screenshots
 8.Screenshots of the login page, dashboard, booking form, and reservation features are available in the screenshots/ folder.
