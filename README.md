@@ -30,9 +30,7 @@ OnlineReservationSystem/
 │   ├── ReservationDashboard.java
 │   ├── ReservationForm.java
 │   └── TestConnection.java
-├── screenshots/
-
-
+├── screenshots
 ├── pom.xml
 └── README.md
 ##Requirements
